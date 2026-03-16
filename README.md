@@ -16,7 +16,7 @@
 
 
 
-##screen after and before
+# screen after and before
 after
 <img width="1920" height="911" alt="screencapture-127-0-0-1-5500-2026-03-16-15_55_40" src="https://github.com/user-attachments/assets/80e6aa48-b5b3-41fc-8531-1b75cf40ba88" />
 before
@@ -24,6 +24,6 @@ before
 <img width="1920" height="1798" alt="screencapture-127-0-0-1-5500-index-html-2026-03-11-14_52_51" src="https://github.com/user-attachments/assets/7726ac4b-4b1c-4bae-9aa7-6a899f3c2fd3" />
 
 
-##live demo link without background photo i don't know why 
+# live demo link without background photo i don't know why 
 
 
