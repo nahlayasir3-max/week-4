@@ -110,7 +110,7 @@ nav {
 .accounts {
   background-color: #ddd;
   color: black;
-  background-image: url(assets/images/download.png);
+  background-image: url(images/download.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -120,26 +120,26 @@ nav {
 }
 
 .header {
-  background-image: url(assets/images/download\ \(1\).png);
+  background-image: url(images/download\ \(1\).png);
 }
 
 
 
 .skills {
-  background-image: url(assets/images/34852f1821af63e9141742f6a1d101fc.jpg);
+  background-image: url(images/34852f1821af63e9141742f6a1d101fc.jpg);
 }
 
 .accounts {
   position: relative;
-  background-image: url(assets/images/download\ \(2\).png);
+  background-image: url(images/download\ \(2\).png);
 }
 
 .projects {
-  background-image: url(assets/images/62269b480494fe6930f9645baa8bfbac.jpg);
+  background-image: url(images/62269b480494fe6930f9645baa8bfbac.jpg);
 }
 
 .about {
-  background-image: url(assets/images/975208bbfc60b15ffaeb6a65877e32f8.jpg);
+  background-image: url(images/975208bbfc60b15ffaeb6a65877e32f8.jpg);
   max-height: 345px;
   overflow: hidden;
 }
